@@ -35,4 +35,4 @@ jobs:
         run: docker build -t ghcr.io/coldboyx/trashhomework_2/node-app:latest .
         
       - name: Pusheng dacker
-        run: docker push ghcr.io/coldboyx/trashhomework_2/node:latest
+        run: docker push ghcr.io/coldboyx/trashhomework_2/node-app:latest
