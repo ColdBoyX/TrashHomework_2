@@ -1,0 +1,15 @@
+{
+  "name": "trashhomework_2",
+  "version": "1.0.0",
+  "description": "ridmik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
